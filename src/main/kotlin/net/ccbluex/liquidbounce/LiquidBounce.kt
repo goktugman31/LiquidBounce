@@ -1,7 +1,7 @@
 /*
  * This file is part of LiquidBounce (https://github.com/CCBlueX/LiquidBounce)
  *
- * Copyright (c) 2015 - 2025 CCBlueX
+ * Copyright (c) 2015 - 2025 CCBlueXadadadadadad
  *
  * LiquidBounce is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -103,8 +103,8 @@ object LiquidBounce : EventListener {
      *
      * WARNING: Please read the GNU General Public License
      */
-    const val CLIENT_NAME = "LiquidBounce"
-    const val CLIENT_AUTHOR = "CCBlueX"
+    const val CLIENT_NAME = "Island.Pro"
+    const val CLIENT_AUTHOR = "SimpleIndustries"
 
     private object Client : Configurable("Client") {
         val version = text("Version", gitInfo["git.build.version"]?.toString() ?: "unknown").immutable()
