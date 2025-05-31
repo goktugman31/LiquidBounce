@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "id": "liquidbounce",
+  "id": "islandpro",
   "version": "${version}",
-  "name": "LiquidBounce",
-  "description": "A free mixin-based injection hacked-client for Minecraft using the Fabric modding toolchain.",
+  "name": "Island.Pro",
+  "description": "A Good Cheap Client.",
   "authors": [
-    "CCBlueX"
+    "SimpleIndustries"
   ],
   "contributors": $contributors,
   "contact": {
-    "homepage": "https://liquidbounce.net/",
-    "sources": "https://github.com/CCBlueX/LiquidBounce/",
-    "issues": "https://github.com/CCBlueX/LiquidBounce/issues",
-    "email": "support@liquidbounce.net"
+    "homepage": "https://islandhacker.fwh.is/",
+    "sources": "https://github.com/goktugman31/Liquidbounce",
+    "issues": "https://github.com/goktugman31/LiquidBounce/issues",
+    "email": "goktugman8@gmail.com"
   },
   "license": "GNU General Public License v3.0",
   "icon": "resources/liquidbounce/icon_64x64.png",
@@ -23,7 +23,7 @@
   "custom": {
     "modmenu": {
       "links": {
-        "liquidbounce.generic.forum": "https://forums.ccbluex.net/"
+        "liquidbounce.generic.forum": "https://cheatturkey.wuaze.com/"
       }
     }
   },
